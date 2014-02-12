@@ -1,29 +1,40 @@
-##AUDITS
+### AUDITS
 - OLD
-##BRIEF
-##BUSINESS
+
+## BRIEF
+
+### BUSINESS
+
 	- BENCHMARK
 	- USER ENQUIRIES
 	- MARKET STUDY
 	- RECO
-##DESIGN
+
+### DESIGN
+
 	- ELEMENT 1
 		* UI
 		* UX
 - ELEMENT 1
 		* UI
 		* UX
-##DEV
+
+### DEV
+
 	- PROJECT NAME
 	- Reset.css
-##PITCH
+
+###PITCH
+
 	- KEY
 		* OLD
 	- MODELS
 		* Template.key
 	- PDF
 		* OLD
-## PM
+
+### PM
+
 	- 1. REQUIREMENTS
 		* MODELS
 		* OLD
@@ -38,7 +49,9 @@
 		* MODELS
 	- 6. CONTRACTS
 		* MODELS
-## RESSOURCES
+
+### RESSOURCES
+
 	- CLIENTS DOC.
 	- EXT. DOC
 	- FONTS
