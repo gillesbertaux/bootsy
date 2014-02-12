@@ -1,7 +1,7 @@
 ### AUDITS
 - OLD
 
-## BRIEF
+### BRIEF
 
 ### BUSINESS
 
@@ -15,7 +15,7 @@
 	- ELEMENT 1
 		* UI
 		* UX
-- ELEMENT 1
+	- ELEMENT 1
 		* UI
 		* UX
 
