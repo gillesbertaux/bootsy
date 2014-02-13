@@ -11,7 +11,7 @@ Bootsy is pretty simple, every side of a project has its folder. Each folder is 
 Almost every folder has a :
 
 - OLD folders : with the previous versions.
-- MODELS folders : contains templates.$
+- MODELS folders : contains templates.
 - .txt files with the naming convention for the folder.
 
 
