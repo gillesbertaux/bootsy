@@ -16,6 +16,8 @@ Almost every folder has a :
 
 The naming convention for every file is PROJECTNAME_FOLDER_Element_DDMM.ext
 
+The core font for Bootsy is Open Sans [available here](http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans)
+
 
 ### Audits
 
