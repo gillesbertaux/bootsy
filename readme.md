@@ -14,22 +14,22 @@ Almost every folder has a :
 - MODELS folders : contains templates.
 - .txt files with the naming convention for the folder.
 
+The naming convention for every file is PROJECTNAME_FOLDER_Element_DDMM.ext
 
-### AUDITS
+
+### Audits
 
 Audits contains all the files concerning your audit analysis if your project is a redesign for example.
 
-**Status : Maybe a template spreadsheet could be useful as a framework**
-
-### BRIEF 
+### Brief 
 
 Here you'll find everythin about the client's brief, the original project documents.
 
-### CLIENT FOLDER
+### Client folder
 
 This folder is special, it only concerns the client. It requires Dropbox or Zapier with Basecamp. Basically, the idea is that everything you put in there is visible for the client. With Dropbox it is a shared folder and with Basecamp the client has access to the documents automatically uploaded thanks to Zapier.
 
-### DESIGN
+### Design
 
 Obviously, this folder is all about design, UX and UI. 
 
@@ -38,7 +38,7 @@ Obviously, this folder is all about design, UX and UI.
 - SITEMAP is the tree structure of the site.
 - WIREFRAMES is for the UX. The folder is structured in ELEMENTS folders. You'll also find a SHEETS folder for sketching. It contains sketching templates.
 
-### DEV
+### Dev
 
 - _if bootstrap project : It is bascially the latest version of Bootstrap.
 - _if php project : In case you want to deploy a CMS, this folder contains header.php, index.php, sidebar.php, footer.php.  
@@ -52,14 +52,7 @@ Obviously, this folder is all about design, UX and UI.
 
 - index.html with a proper HTML5 structure.
 
-### MARKETING
-
-- AQUISITION : Contains a SEO/SEA/SOCIAL folder. 
-- BENCHMARK : All your benchmark assets for the project.
-
-**Status : Maybe a ketword/seo/sea template spreadsheet could be useful. Also I am not sure about the benchmark folder here.**
-
-### PITCH
+### Pitch
 
 This folder will contains everything for your client presentations.
 
@@ -67,19 +60,18 @@ This folder will contains everything for your client presentations.
 - MODELS : I created a clean template for keynote to help you make good looking presentations fast.
 - PDF : Pdf exports here.
 
-### PM 
+### Pm 
 
 The project manager folder.
 
 - SPECS : all the specs file. You'll find templates in MODELS.
 - REPORTS : all the meeting reports. You'll find templates in MODELS.
-- AGENDA : all the meeting agendas. You'll find templates in MODELS.
 - PLANNING AND BUDGET : XLS templates for GANTT planning and budget.
 - RACI : Risk management spreadsheet. Contains a template in MODELS.
 - CONTRACTS : All your contracts in there.
 - DEPLOYMENT : Contains a checklist before deployment.
 
-### RESSOURCES
+### Ressources
 
 - CLIENT RESSOURCES : All the client documents other than the briefs. Has an ASSETS folder (images furnished, text documents for the site, etc.), and a BRAND GUIDELINES folder ( brand logo, font, color scheme).
 - EXTERNAL RESSOURCES : All the ressource documents (studies, framework documentation, etc.)

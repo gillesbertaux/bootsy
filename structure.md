@@ -1,60 +1,71 @@
-### AUDITS
+### Audits
 
 	- OLD
 
-### BRIEF
+### Brief
 
-### BUSINESS
+### Client Folder
 
-	- BENCHMARK
-	- USER ENQUIRIES
-	- MARKET STUDY
-	- RECO
+### Design
 
-### DESIGN
+	- A.D
+	- SCREENS
+		- ELEMENT
+			- OLD
+		- GRIDS
+	- SITEMAP
+	- WIREFRAMES
+		- ELEMENT
+			- OLD
+		- SHEETS
 
-	- ELEMENT 1
-		* UI
-		* UX
-	- ELEMENT 1
-		* UI
-		* UX
+### Dev
 
-### DEV
+	- if bootstrap project
+		- css
+		- fonts
+		- js
+	- if ruby project
+	- if php project
+	- Assets
+		- css
+		- fonts
+		- img
+		- js
+	- index.html
+	- reset.css
 
-	- PROJECT NAME
-	- Reset.css
-
-###PITCH
+### Pitch
 
 	- KEY
 		* OLD
 	- MODELS
-		* Template.key
 	- PDF
 		* OLD
 
-### PM
+### Pm
 
 	- 1. REQUIREMENTS
 		* MODELS
 		* OLD
 	- 2. REPORTS
 		* MODELS
-	- 3. AGENDA
-		* MODELS
-	- 4. PLANNING & BUDGET
+	- 3. PLANNING & BUDGET
 		* MODELS
 		* OLD
-	- 5. RACI
+	- 4. RACI
 		* MODELS
-	- 6. CONTRACTS
+	- 5. CONTRACTS
 		* MODELS
+	- 6. DEPLOYMENT
 
-### RESSOURCES
+### Ressources
 
-	- CLIENTS DOC.
-	- EXT. DOC
+	- CLIENT RESSOURCES
+		- ASSETS
+		- BRAND GUIDELINES
+	- EXTERNAL RESSOURCES
 	- FONTS
 	- IMGs
+	- TEAM INFOS
 	
