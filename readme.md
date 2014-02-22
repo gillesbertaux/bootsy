@@ -3,6 +3,8 @@
 
 Bootsy provides an organized folder structure for every aspect of a project. It contains versioning & templates folders to help you bootstrap and maintain your project. I also added some tools such as keynote templates, resets, RACI models, reports models for PMs. Also, I only pushed a file with the structure written in indentation.
 
+See the Home Page : [http://gillesbertaux/bootsy](http://gillesbertaux.com/bootsy)
+
 By the way, I am totally open to suggestions to improve and discuss Bootsy, feel free to post an issue or request a pull request. 
 
 
