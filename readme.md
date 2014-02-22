@@ -54,9 +54,6 @@ Obviously, this folder is all about design, UX and UI.
 
 ### Dev
 
-- _if bootstrap project : It is bascially the latest version of Bootstrap.
-- _if php project : In case you want to deploy a CMS, this folder contains header.php, index.php, sidebar.php, footer.php.  
-- _if ruby project : This folder has a ROR project already initiated.
 - assets
 
 	* css : In there you have 960 css grids, animations.css, font-awesome.css (from Bootstrap), a reset.css file, and a blank style.css file.
@@ -65,6 +62,7 @@ Obviously, this folder is all about design, UX and UI.
 	* js : This folder has IE7,8,9 js browser fixes, and Jquery files (1.9.1 & the latest).
 
 - index.html with a proper HTML5 structure.
+- projectLaunch.md that contains all the command lines to initialize a project using mostly Yeoman.
 
 ### Pitch
 
