@@ -1,8 +1,21 @@
 # Bootsy
 
+
 Bootsy provides an organized folder structure for every aspect of a project. It contains versioning & templates folders to help you bootstrap and maintain your project. I also added some tools such as keynote templates, resets, RACI models, reports models for PMs. Also, I only pushed a file with the structure written in indentation.
 
 By the way, I am totally open to suggestions to improve and discuss Bootsy, feel free to post an issue or request a pull request. 
+
+
+## Currently V.0.5 - Improvements
+
+- Acording to your feedbacks I put .gitkeep files in every folder in order to commit the whole structure in the repository and allow pull requests. Therefore, I deleted the structure.md file since it has no use anymore.
+- I deleted OLD folders, apparently people would do it naturally
+- I deleted the majority of of the files in the DEV folder. I only keeped the Index.html and the assets folder. PHP, Ruby, projects etc. will now be generated thanks to the projectLaunch.md file. It contains all the command lines to initialize a project using mostly Yeoman.
+
+## Milestones
+
+- Deploy on Github Pages
+- Create a bower instance for deploying the structure with one line command 
 
 ## How it works
 
@@ -10,7 +23,6 @@ Bootsy is pretty simple, every side of a project has its folder. Each folder is 
 
 Almost every folder has a :
 
-- OLD folders : with the previous versions.
 - MODELS folders : contains templates.
 - .txt files with the naming convention for the folder.
 
