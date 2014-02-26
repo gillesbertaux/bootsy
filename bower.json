@@ -1,7 +1,7 @@
 {
     "name": "bootsy",
     "version": "1.0",
-    "main": "https://github.com/gillesbertaux/bootsy/archive/master.zip",
+    "main": "git://github.com/gillesbertaux/bootsy.git",
     "ignore": [
         "readme.md",
         "bower.json",
