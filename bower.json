@@ -1,6 +1,9 @@
 {
     "name": "bootsy",
     "version": "1.0",
+    "description": "Bootstrap small projects and keep them organized with a simple folder structure.",
+  	"homepage": "http://gillesbertaux.com/bootsy",
+  	"author": "Gilles Bertaux <hello@gillesbertaux.com>",
     "main": "git://github.com/gillesbertaux/bootsy.git",
     "ignore": [
         "readme.md",
