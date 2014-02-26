@@ -23,6 +23,14 @@ By the way, I am totally open to suggestions to improve and discuss Bootsy, feel
 - Deploy on Github Pages
 - Deal with front/back dev
 
+## Installing Bootsy with Bower
+
+First install NPM and Bower :
+`npm install -g bower
+
+Then install Bootsy package in your working directory :
+`bower install bootsy`
+
 ## How it works
 
 Bootsy is pretty simple, every side of a project has its folder. Each folder is structured and contains tools I found across the Web to properly bootstrap a project. Of course you won't use everything so just delete what has no use for you.
@@ -36,14 +44,6 @@ The naming convention for every file is PROJECTNAME_FOLDER_Element_DDMM.ext
 
 The core font for Bootsy is Open Sans [available here](http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans)
 
-
-## Installing Bootsy with Bower
-
-First install NPM and Bower :
-`npm install -g bower
-
-Then install Bootsy package in your working directory :
-`bower install bootsy`
 
 ### Audits
 
