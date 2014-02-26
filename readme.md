@@ -26,7 +26,7 @@ By the way, I am totally open to suggestions to improve and discuss Bootsy, feel
 ## Installing Bootsy with Bower
 
 First install NPM and Bower :
-`npm install -g bower
+`npm install -g bower`
 
 Then install Bootsy package in your working directory :
 `bower install bootsy`
