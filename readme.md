@@ -8,7 +8,11 @@ See the Home Page : [http://gillesbertaux/bootsy](http://gillesbertaux.com/boots
 By the way, I am totally open to suggestions to improve and discuss Bootsy, feel free to post an issue or request a pull request. 
 
 
-## Currently V.0.5 - Improvements
+## V.1.0 - Improvements
+
+- I created a bower package to run Bootsy in one command line.
+
+## V.0.5 - Improvements
 
 - Acording to your feedbacks I put .gitkeep files in every folder in order to commit the whole structure in the repository and allow pull requests. Therefore, I deleted the structure.md file since it has no use anymore.
 - I deleted OLD folders, apparently people would do it naturally
@@ -17,7 +21,7 @@ By the way, I am totally open to suggestions to improve and discuss Bootsy, feel
 ## Milestones
 
 - Deploy on Github Pages
-- Create a bower instance for deploying the structure with one line command 
+- Deal with front/back dev
 
 ## How it works
 
@@ -32,6 +36,14 @@ The naming convention for every file is PROJECTNAME_FOLDER_Element_DDMM.ext
 
 The core font for Bootsy is Open Sans [available here](http://www.google.com/fonts#UsePlace:use/Collection:Open+Sans)
 
+
+## Installing Bootsy with Bower
+
+First install NPM and Bower :
+`npm install -g bower'
+
+Then install Bootsy package in your working directory :
+`bower install bootsy`
 
 ### Audits
 
