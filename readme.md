@@ -97,10 +97,10 @@ The project manager folder.
 - CONTRACTS : All your contracts in there.
 - DEPLOYMENT : Contains a checklist before deployment.
 
-### Ressources
+### Resources
 
-- CLIENT RESSOURCES : All the client documents other than the briefs. Has an ASSETS folder (images furnished, text documents for the site, etc.), and a BRAND GUIDELINES folder ( brand logo, font, color scheme).
-- EXTERNAL RESSOURCES : All the ressource documents (studies, framework documentation, etc.)
+- CLIENT RESOURCES : All the client documents other than the briefs. Has an ASSETS folder (images furnished, text documents for the site, etc.), and a BRAND GUIDELINES folder ( brand logo, font, color scheme).
+- EXTERNAL RESOURCES : All the resource documents (studies, framework documentation, etc.)
 - FONTS : Fonts used in the project.
 - IMGs : Images collected for the project.
 - TEAM INFO : Contains an excel with all the contact informations, or FTP access for example.
