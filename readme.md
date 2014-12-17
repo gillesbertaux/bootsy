@@ -3,7 +3,7 @@
 
 Bootsy provides an organized folder structure for every aspect of a project. It contains versioning & templates folders to help you bootstrap and maintain your project. I also added some tools such as keynote templates, resets, RACI models, reports models for PMs. Also, I only pushed a file with the structure written in indentation.
 
-See the Home Page : [http://gillesbertaux/bootsy](http://gillesbertaux.com/bootsy)
+See the Home Page : [http://gillesbertaux.com/bootsy](http://gillesbertaux.com/bootsy)
 
 By the way, I am totally open to suggestions to improve and discuss Bootsy, feel free to post an issue or request a pull request. 
 
@@ -14,9 +14,9 @@ By the way, I am totally open to suggestions to improve and discuss Bootsy, feel
 
 ## V.0.5 - Improvements
 
-- Acording to your feedbacks I put .gitkeep files in every folder in order to commit the whole structure in the repository and allow pull requests. Therefore, I deleted the structure.md file since it has no use anymore.
+- According to your feedback, I put .gitkeep files in every folder in order to commit the whole structure in the repository and allow pull requests. Therefore, I deleted the structure.md file since it has no use anymore.
 - I deleted OLD folders, apparently people would do it naturally
-- I deleted the majority of of the files in the DEV folder. I only keeped the Index.html and the assets folder. PHP, Ruby, projects etc. will now be generated thanks to the projectLaunch.md file. It contains all the command lines to initialize a project using mostly Yeoman.
+- I deleted the majority of of the files in the DEV folder. I only kept the Index.html and the assets folder. PHP, Ruby, projects etc. will now be generated thanks to the projectLaunch.md file. It contains all the command lines to initialize a project using mostly Yeoman.
 
 ## Milestones
 
@@ -51,7 +51,7 @@ Audits contains all the files concerning your audit analysis if your project is 
 
 ### Brief 
 
-Here you'll find everythin about the client's brief, the original project documents.
+Here you'll find everything about the client's brief, the original project documents.
 
 ### Client folder
 
@@ -73,7 +73,7 @@ Obviously, this folder is all about design, UX and UI.
 	* css : In there you have 960 css grids, animations.css, font-awesome.css (from Bootstrap), a reset.css file, and a blank style.css file.
 	* fonts : Fonts will contain all your fonts and the font-awesome font collection from Bootstrap.
 	* img : Well, it is pretty much obvious.
-	* js : This folder has IE7,8,9 js browser fixes, and Jquery files (1.9.1 & the latest).
+	* js : This folder has IE7,8,9 js browser fixes, and jQuery files (1.9.1 & the latest).
 
 - index.html with a proper HTML5 structure.
 - projectLaunch.md that contains all the command lines to initialize a project using mostly Yeoman.
@@ -97,10 +97,10 @@ The project manager folder.
 - CONTRACTS : All your contracts in there.
 - DEPLOYMENT : Contains a checklist before deployment.
 
-### Ressources
+### Resources
 
-- CLIENT RESSOURCES : All the client documents other than the briefs. Has an ASSETS folder (images furnished, text documents for the site, etc.), and a BRAND GUIDELINES folder ( brand logo, font, color scheme).
-- EXTERNAL RESSOURCES : All the ressource documents (studies, framework documentation, etc.)
+- CLIENT RESOURCES : All the client documents other than the briefs. Has an ASSETS folder (images furnished, text documents for the site, etc.), and a BRAND GUIDELINES folder ( brand logo, font, color scheme).
+- EXTERNAL RESOURCES : All the resource documents (studies, framework documentation, etc.)
 - FONTS : Fonts used in the project.
 - IMGs : Images collected for the project.
 - TEAM INFO : Contains an excel with all the contact informations, or FTP access for example.
